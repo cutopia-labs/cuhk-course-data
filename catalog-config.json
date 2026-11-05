@@ -1,3 +1,5 @@
 {
-  "currentTerm": "2026-27 Term 1"
+  "termNotBefore": {
+    "2026-27 Term 2": "2026-11-04"
+  }
 }
