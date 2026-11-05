@@ -38,9 +38,9 @@
     "2025-26 Term 2": 4,
     "2022-23 Term 2": 3
   },
-  "subjectsChecked": 0,
-  "version": "7f8c6bc4e8597c8a4c1512ab38f53fb4a999ffefb15dab727a5a7aa8cb1e5699",
-  "checkedAt": "2026-11-05T01:33:32.338222+00:00",
+  "subjectsChecked": 270,
+  "version": "9d9886a0c6e7331efa1e9aff7652650927404a2d77e430472a01d6734f1a9c8e",
+  "checkedAt": "2026-11-05T02:30:14.403Z",
   "changed": true,
-  "runId": "bootstrap-2026-11-04"
+  "runId": "41951603294"
 }
