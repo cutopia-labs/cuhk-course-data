@@ -2,7 +2,7 @@
   "courses": 9639,
   "offeredCourses": {
     "2026-27 Term 1": 3035,
-    "2026-27 Term 2": 3252,
+    "2026-27 Term 2": 3253,
     "2026-27 Term 3": 163,
     "2026-27 Term 4": 22,
     "2026-27 Summer Session": 145,
@@ -21,7 +21,7 @@
   },
   "sections": {
     "2026-27 Term 1": 8925,
-    "2026-27 Term 2": 8817,
+    "2026-27 Term 2": 8821,
     "2026-27 Term 3": 224,
     "2026-27 Term 4": 32,
     "2026-27 Summer Session": 194,
@@ -39,10 +39,10 @@
     "2022-23 Term 2": 3
   },
   "subjectsChecked": 270,
-  "version": "c60008049b963b3081c942f1507ba9dc8d526343289e76786126f10bd0d4dc56",
-  "checkedAt": "2026-11-06T01:31:48.464Z",
+  "version": "6ca656c140eedadc36b6164dfc8613fd036c1ed225baeaff2dd3532b507a4294",
+  "checkedAt": "2026-11-07T00:47:15.332Z",
   "changed": true,
-  "runId": "42140688256",
+  "runId": "42316519641",
   "currentTerm": "2026-27 Term 2",
   "availableTerms": [
     "2026-27 Term 2",
