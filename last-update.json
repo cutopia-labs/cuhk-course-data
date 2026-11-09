@@ -38,11 +38,11 @@
     "2025-26 Term 2": 4,
     "2022-23 Term 2": 3
   },
-  "subjectsChecked": 0,
-  "version": "ef9837e0ff7541df8758ed6935a990b79b3cf49144b5ca1cac15761bbe658164",
-  "checkedAt": "2026-11-08T00:14:36.189Z",
-  "changed": false,
-  "runId": "42442120115",
+  "subjectsChecked": 270,
+  "version": "dd8b9218a00c69d38ae045d1eea6ad939c30751d186bd2c839d7823b0aa82a74",
+  "checkedAt": "2026-11-09T00:21:28.226Z",
+  "changed": true,
+  "runId": "42536995212",
   "currentTerm": "2026-27 Term 2",
   "availableTerms": [
     "2026-27 Term 2",
@@ -50,5 +50,5 @@
     "2026-27 Summer Session"
   ],
   "termSelection": "registration-window-ready",
-  "publicationMode": "publish-only"
+  "publicationMode": "full-crawl"
 }
