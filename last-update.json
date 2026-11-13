@@ -38,11 +38,18 @@
     "2025-26 Term 2": 4,
     "2022-23 Term 2": 3
   },
-  "subjectsChecked": 270,
+  "venueQuality": {
+    "meetings": 9688,
+    "namedLocation": 5425,
+    "toBeAnnounced": 628,
+    "noRoomRequired": 3635,
+    "multiLocationSections": 529
+  },
+  "subjectsChecked": 0,
   "version": "617f5b74fe7c71c0612b2ee8dc5e927726a2cd8ca94e75b7f275b47e8c93ddb1",
   "checkedAt": "2026-11-13T01:48:02.734Z",
-  "changed": true,
-  "runId": "43343298562",
+  "changed": false,
+  "runId": "43515879243",
   "currentTerm": "2026-27 Term 2",
   "availableTerms": [
     "2026-27 Term 2",
@@ -50,5 +57,5 @@
     "2026-27 Summer Session"
   ],
   "termSelection": "registration-window-ready",
-  "publicationMode": "full-crawl"
+  "publicationMode": "publish-only"
 }
