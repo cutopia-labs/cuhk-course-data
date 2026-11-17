@@ -2,7 +2,7 @@
   "courses": 9639,
   "offeredCourses": {
     "2026-27 Term 1": 3035,
-    "2026-27 Term 2": 3258,
+    "2026-27 Term 2": 3259,
     "2026-27 Term 3": 165,
     "2026-27 Term 4": 22,
     "2026-27 Summer Session": 145,
@@ -21,7 +21,7 @@
   },
   "sections": {
     "2026-27 Term 1": 8922,
-    "2026-27 Term 2": 8854,
+    "2026-27 Term 2": 8935,
     "2026-27 Term 3": 226,
     "2026-27 Term 4": 32,
     "2026-27 Summer Session": 194,
@@ -39,17 +39,17 @@
     "2022-23 Term 2": 3
   },
   "venueQuality": {
-    "meetings": 9689,
-    "namedLocation": 5427,
-    "toBeAnnounced": 628,
-    "noRoomRequired": 3634,
-    "multiLocationSections": 530
+    "meetings": 9859,
+    "namedLocation": 5593,
+    "toBeAnnounced": 631,
+    "noRoomRequired": 3635,
+    "multiLocationSections": 613
   },
   "subjectsChecked": 270,
-  "version": "4ed715c6da5cd400a7af4f3bc77e25f96a051207dae6de4c8512c90df0085493",
-  "checkedAt": "2026-11-16T00:30:42.916Z",
+  "version": "9e6eef84e0610e003d7addb155eb31fea199eec165786a0b352e1b09e9ae1982",
+  "checkedAt": "2026-11-17T03:37:01.218Z",
   "changed": true,
-  "runId": "43778030618",
+  "runId": "44006943871",
   "currentTerm": "2026-27 Term 2",
   "availableTerms": [
     "2026-27 Term 2",
